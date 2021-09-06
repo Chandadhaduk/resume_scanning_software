@@ -1,0 +1,6 @@
+1)eye blink counter
+2)quiz
+3)weather forecast 
+4)eco and green 
+5)netflix data exploratory analysis
+6) exploratory data analysis(EDA) of student alcohol consumption 
